@@ -1,0 +1,2 @@
+Note that the encryption here is done using a key, and we need to use the same key to decrypt
+also notice that when we encrypt the result will be with ENC extention, we need to remove it in case of using .bak for example
